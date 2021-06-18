@@ -11,4 +11,4 @@ Packages (latest):
 https://pkgs.alpinelinux.org/packages
 
 Working Directory:
-/ansible
+- /ansible
